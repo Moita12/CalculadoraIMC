@@ -1,0 +1,7 @@
+# CalculadoraIMC
+1- Primeiramente eu baixei o projeto anterior que eu já tinha realizado em Flutter "Calculadora"
+2- Em seguida eu alterei as váriaveis para se adaptarem ao novo modelo de aplicação
+3- coloquei a fórmula de cálculo do IMC "IMC = Peso / (Altura * Altura)"
+4- adicionei uma mensagem de erro que aparece quanto valores incorretos são inseridos
+5- Testei a aplicação tanto em windowns quanto em Android.
+6- Por último adicionei alguns últimos enfeites e finalizei o projeto
